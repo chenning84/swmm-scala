@@ -1,0 +1,6 @@
+[CONDUITS]
+;;                 Inlet            Outlet                      Manning    Inlet      Outlet     Init.      Maximum
+;;Name             Node             Node             Length     N          Height     Height     Flow       Flow
+;;------------------------------------------------------------------------------------------------------------------------
+  583              19SB6            18SB6            1000.0     0.0        0.0        7.8        0.0        0
+  591              26SB6            25SB6            300.0      0.0        0.0        0.0        0.0        0

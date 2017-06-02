@@ -1,0 +1,5 @@
+[OUTFALLS]
+;;                 Invert     Outfall    Stage/Table      Tide
+;;Name             Elev.      Type       Time Series      Gate
+;;------------------------------------------------------------
+  O.O_RM           637.8      FIXED      650 YES

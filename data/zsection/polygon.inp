@@ -1,0 +1,11 @@
+[Polygons]
+;;Subcatchment     X-Coord          Y-Coord
+  SubCatchTW01060  119343.800       47675.800
+  SubCatchTW01060  120580.800       47675.800
+  SubCatchTW01060  120580.800       45923.800
+  SubCatchTW01060  119343.800       45923.800
+  SubCatchTW01100  121765.000       49481.800
+  SubCatchTW01100  122700.800       49481.800
+  SubCatchTW01100  122700.800       47675.800
+  SubCatchTW01100  121765.000       47675.800
+  SubCatchTW01160  123662.600       51554.600

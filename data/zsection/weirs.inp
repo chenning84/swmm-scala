@@ -1,0 +1,7 @@
+[WEIRS]
+;;                 Inlet            Outlet                        Crest      Disch.     Flap End        End
+;;Name             Node             Node             Type         Height     Coeff.     Gate Coeff.     Con.
+;;---------------------------------------------------------------------------------------------------------
+  WEIR1            1127             1128             TRANSVERSE   0.0        3.32       NO   0          0
+  WEIR2            1127             1128             TRANSVERSE   4.0        2.64       NO   0          0
+  WEIR3            1127             1128             TRANSVERSE   8.0        2.63       NO   0          0

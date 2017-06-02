@@ -1,0 +1,6 @@
+[STORAGE]
+;;                 Invert   Max.     Init.    Shape      Shape                      Ponded   Evap.
+;;Name             Elev.    Depth    Depth    Curve      Parameters                 Area     Frac.
+;;------------------------------------------------------------------------------------------------
+  1SB1             704.45   35.55    0.0      TABULAR    1SB1                       0        0
+  99               682.0    8.0      0.0      TABULAR    99                         0        0

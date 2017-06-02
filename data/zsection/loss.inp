@@ -1,0 +1,7 @@
+[LOSSES]
+;;Link             Inlet      Outlet     Average    Flap Gate
+;;-------------------------------------------------------------
+  0.06_NAT         0          0          0          YES
+  826pipe          0          0          0          YES
+  825pipe          0          0          0          YES
+  853pipe          0          0          0          YES

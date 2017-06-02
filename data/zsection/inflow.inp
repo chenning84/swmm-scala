@@ -1,0 +1,7 @@
+[INFLOWS]
+;;                                                   Concen   Conversion
+;;Node             Parameter        Time Series      /Mass    Factor
+;;----------------------------------------------------------------------
+  102              FLOW             INFLOW@102
+  1SB3_MIL         FLOW             INFLOW@1SB3_MIL
+  1SB1             FLOW             INFLOW@1SB1

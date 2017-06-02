@@ -1,0 +1,7 @@
+SCALA version fo swmm5
+
+Origianl software is from url below
+https://www.epa.gov/water-research/storm-water-management-model-swmm
+
+
+I am to conver C version of SWMM5 code into java/scala and try to find a solution to reduce the performace

@@ -1,0 +1,11 @@
+[XSECTIONS]
+;;Link             Type         Geom1      Geom2      Geom3      Geom4      Barrels
+;;---------------------------------------------------------------------------------
+  583              IRREGULAR    1          0          0          0          1
+  591              IRREGULAR    2          0          0          0          1
+  592              IRREGULAR    3          0          0          0          1
+  593              IRREGULAR    4          0          0          0          1
+  594              IRREGULAR    5          0          0          0          1
+  595              IRREGULAR    6          0          0          0          1
+  596              IRREGULAR    7          0          0          0          1
+  597              IRREGULAR    8          0          0          0          1

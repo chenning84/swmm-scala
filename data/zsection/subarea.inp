@@ -1,0 +1,8 @@
+[SUBAREAS]
+;;Subcatchment     N-Imperv   N-Perv     S-Imperv   S-Perv     PctZero    RouteTo    PctRouted
+;;--------------------------------------------------------------------------------------------
+  1SB5#1           0.018      0.035      0.1        0.2        25         OUTLET
+  2SB5#1           0.018      0.035      0.1        0.2        25         OUTLET
+  1SB23#1          0.018      0.035      0.1        0.2        25         OUTLET
+  2SB23#1          0.018      0.035      0.1        0.2        25         OUTLET
+  4SB23#1          0.018      0.035      0.1        0.2        25         OUTLET
