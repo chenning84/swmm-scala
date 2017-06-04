@@ -17,7 +17,7 @@ package swmm.configdata.jnodes.types;
             this.patterns = patterns;
             this.next = next;
         }
-    };
+    }
  //   class       DwfInflow TDwfInflow;
 
 
